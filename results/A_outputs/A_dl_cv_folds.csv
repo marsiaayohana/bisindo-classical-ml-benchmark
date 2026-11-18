@@ -1,0 +1,11 @@
+features,model,fold,n_train,n_test,epochs,accuracy,macro_f1,n_distinct_predicted_classes,eval_unit
+frame285_seq30,1D-CNN,1,168,42,38,100.0,100.0,6,video sequences | stratified folds (DL)
+frame285_seq30,1D-CNN,2,168,42,66,100.0,100.0,6,video sequences | stratified folds (DL)
+frame285_seq30,1D-CNN,3,168,42,36,100.0,100.0,6,video sequences | stratified folds (DL)
+frame285_seq30,1D-CNN,4,168,42,31,100.0,100.0,6,video sequences | stratified folds (DL)
+frame285_seq30,1D-CNN,5,168,42,44,97.61904761904762,97.60683760683762,6,video sequences | stratified folds (DL)
+frame285_seq30,LSTM,1,168,42,22,97.61904761904762,97.60683760683762,6,video sequences | stratified folds (DL)
+frame285_seq30,LSTM,2,168,42,100,97.61904761904762,97.60683760683762,6,video sequences | stratified folds (DL)
+frame285_seq30,LSTM,3,168,42,74,100.0,100.0,6,video sequences | stratified folds (DL)
+frame285_seq30,LSTM,4,168,42,88,100.0,100.0,6,video sequences | stratified folds (DL)
+frame285_seq30,LSTM,5,168,42,62,97.61904761904762,97.60683760683762,6,video sequences | stratified folds (DL)

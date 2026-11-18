@@ -1,0 +1,17 @@
+eval_unit,split,features,model,n_train,n_test,accuracy,macro_f1,errors
+frame rows | random stratified hold-out,80:20,frame285,RF,4303,1076,96.93308550185874,96.92484208166042,33
+frame rows | random stratified hold-out,80:20,frame285,MLP,4303,1076,98.23420074349443,98.22666060486573,19
+frame rows | random stratified hold-out,80:20,frame285,SVM,4303,1076,95.26022304832715,95.26687971712393,51
+frame rows | random stratified hold-out,80:20,frame285,KNN,4303,1076,95.63197026022306,95.62320343947212,47
+frame rows | random stratified hold-out,80:20,delta855,RF,4303,1076,97.67657992565056,97.66943552197746,25
+frame rows | random stratified hold-out,80:20,delta855,MLP,4303,1076,94.42379182156134,94.40736415493845,60
+frame rows | random stratified hold-out,80:20,delta855,SVM,4303,1076,93.40148698884758,93.39431721108743,71
+frame rows | random stratified hold-out,80:20,delta855,KNN,4303,1076,86.7100371747212,86.73707293710932,143
+frame rows | random stratified hold-out,70:30,frame285,RF,3765,1614,97.39776951672863,97.39264930870519,42
+frame rows | random stratified hold-out,70:30,frame285,MLP,3765,1614,97.27385377942998,97.26241269268024,44
+frame rows | random stratified hold-out,70:30,frame285,SVM,3765,1614,95.2912019826518,95.29433517399826,76
+frame rows | random stratified hold-out,70:30,frame285,KNN,3765,1614,95.9727385377943,95.95281194392057,65
+frame rows | random stratified hold-out,70:30,delta855,RF,3765,1614,97.83147459727385,97.82558969300533,35
+frame rows | random stratified hold-out,70:30,delta855,MLP,3765,1614,94.6096654275093,94.6094583908237,87
+frame rows | random stratified hold-out,70:30,delta855,SVM,3765,1614,92.81288723667906,92.79282049357315,116
+frame rows | random stratified hold-out,70:30,delta855,KNN,3765,1614,86.86493184634449,86.89896294736194,212

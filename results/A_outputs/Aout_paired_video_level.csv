@@ -1,0 +1,9 @@
+dl,classical,dl_acc,cls_acc,dl_only_right,cls_only_right,mcnemar_exact_p
+1D-CNN,"RF (frame, grouped, vote)",99.52380952380952,98.09523809523809,3,0,0.25
+1D-CNN,"MLP (frame, grouped, vote)",99.52380952380952,98.09523809523809,3,0,0.25
+1D-CNN,"SVM (frame, grouped, vote)",99.52380952380952,97.61904761904762,4,0,0.125
+1D-CNN,"KNN (frame, grouped, vote)",99.52380952380952,97.61904761904762,4,0,0.125
+LSTM,"RF (frame, grouped, vote)",98.57142857142858,98.09523809523809,3,2,1.0
+LSTM,"MLP (frame, grouped, vote)",98.57142857142858,98.09523809523809,2,1,1.0
+LSTM,"SVM (frame, grouped, vote)",98.57142857142858,97.61904761904762,3,1,0.625
+LSTM,"KNN (frame, grouped, vote)",98.57142857142858,97.61904761904762,3,1,0.625

@@ -1,0 +1,21 @@
+features,model,fold,n_train,n_test,accuracy,macro_f1,eval_unit
+delta855,RF,1,4303,1076,98.04832713754647,98.03227648282308,frame rows | random stratified folds
+delta855,RF,2,4303,1076,97.30483271375465,97.30417981265776,frame rows | random stratified folds
+delta855,RF,3,4303,1076,98.42007434944237,98.415552443316,frame rows | random stratified folds
+delta855,RF,4,4303,1076,98.3271375464684,98.32346519515106,frame rows | random stratified folds
+delta855,RF,5,4304,1075,97.0232558139535,97.03061642397478,frame rows | random stratified folds
+delta855,MLP,1,4303,1076,88.7546468401487,88.69775299485818,frame rows | random stratified folds
+delta855,MLP,2,4303,1076,95.91078066914498,95.90256835991599,frame rows | random stratified folds
+delta855,MLP,3,4303,1076,96.46840148698885,96.47063729336944,frame rows | random stratified folds
+delta855,MLP,4,4303,1076,96.74721189591078,96.72745161637398,frame rows | random stratified folds
+delta855,MLP,5,4304,1075,95.90697674418604,95.89958449574567,frame rows | random stratified folds
+delta855,SVM,1,4303,1076,93.77323420074349,93.76191142434868,frame rows | random stratified folds
+delta855,SVM,2,4303,1076,92.93680297397769,92.93592384683191,frame rows | random stratified folds
+delta855,SVM,3,4303,1076,94.9814126394052,94.9694704730168,frame rows | random stratified folds
+delta855,SVM,4,4303,1076,94.05204460966543,94.01422605307864,frame rows | random stratified folds
+delta855,SVM,5,4304,1075,93.30232558139535,93.28222572007991,frame rows | random stratified folds
+delta855,KNN,1,4303,1076,86.61710037174721,86.6194130512163,frame rows | random stratified folds
+delta855,KNN,2,4303,1076,86.15241635687732,86.20430007496017,frame rows | random stratified folds
+delta855,KNN,3,4303,1076,89.49814126394052,89.49999302675647,frame rows | random stratified folds
+delta855,KNN,4,4303,1076,87.54646840148699,87.51029418521406,frame rows | random stratified folds
+delta855,KNN,5,4304,1075,87.44186046511628,87.47588329765587,frame rows | random stratified folds

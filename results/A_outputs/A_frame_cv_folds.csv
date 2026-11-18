@@ -1,0 +1,21 @@
+features,model,fold,n_train,n_test,accuracy,macro_f1,eval_unit
+frame285,RF,1,4303,1076,97.86245353159852,97.85008405507955,frame rows | random stratified folds
+frame285,RF,2,4303,1076,97.39776951672863,97.39460066227251,frame rows | random stratified folds
+frame285,RF,3,4303,1076,98.51301115241635,98.50858399090403,frame rows | random stratified folds
+frame285,RF,4,4303,1076,98.3271375464684,98.31944125850845,frame rows | random stratified folds
+frame285,RF,5,4304,1075,97.67441860465115,97.68161440190755,frame rows | random stratified folds
+frame285,MLP,1,4303,1076,97.4907063197026,97.48065190004115,frame rows | random stratified folds
+frame285,MLP,2,4303,1076,97.02602230483272,97.02762420032207,frame rows | random stratified folds
+frame285,MLP,3,4303,1076,97.58364312267658,97.59254898628957,frame rows | random stratified folds
+frame285,MLP,4,4303,1076,98.42007434944237,98.41842845626743,frame rows | random stratified folds
+frame285,MLP,5,4304,1075,97.11627906976744,97.10959571818364,frame rows | random stratified folds
+frame285,SVM,1,4303,1076,95.53903345724906,95.52155008602344,frame rows | random stratified folds
+frame285,SVM,2,4303,1076,96.00371747211895,96.00136522721789,frame rows | random stratified folds
+frame285,SVM,3,4303,1076,96.18959107806691,96.18091750314774,frame rows | random stratified folds
+frame285,SVM,4,4303,1076,95.63197026022306,95.64539260568199,frame rows | random stratified folds
+frame285,SVM,5,4304,1075,94.41860465116278,94.41854050765305,frame rows | random stratified folds
+frame285,KNN,1,4303,1076,95.07434944237917,95.07641375340606,frame rows | random stratified folds
+frame285,KNN,2,4303,1076,96.09665427509294,96.10267673174735,frame rows | random stratified folds
+frame285,KNN,3,4303,1076,96.93308550185874,96.9290063344336,frame rows | random stratified folds
+frame285,KNN,4,4303,1076,96.28252788104089,96.27302600933872,frame rows | random stratified folds
+frame285,KNN,5,4304,1075,96.09302325581396,96.1066954503763,frame rows | random stratified folds

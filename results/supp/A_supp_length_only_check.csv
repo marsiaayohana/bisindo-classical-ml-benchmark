@@ -1,0 +1,6 @@
+eval_unit,model,mean,sd_ddof0,folds
+video level | DL stratified folds | feature = n_real_frames only,majority class (reference),16.666666666666664,0.0,16.67;16.67;16.67;16.67;16.67
+video level | DL stratified folds | feature = n_real_frames only,DecisionTree(max_depth=3),18.571428571428573,3.499271061118826,21.43;14.29;21.43;21.43;14.29
+video level | DL stratified folds | feature = n_real_frames only,RandomForest(100),17.14285714285714,4.8562090605645585,16.67;14.29;26.19;16.67;11.90
+video level | DL stratified folds | feature = n_real_frames only,KNN(5),19.523809523809526,4.096345365258395,26.19;14.29;21.43;16.67;19.05
+video level | DL stratified folds | feature = n_real_frames only,Logistic regression,21.904761904761905,4.616837959444123,14.29;21.43;23.81;28.57;21.43

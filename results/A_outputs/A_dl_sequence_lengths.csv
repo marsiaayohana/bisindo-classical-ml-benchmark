@@ -1,0 +1,211 @@
+video,signer,label,n_real_frames,n_padded
+S1_ApaKabar1,S1,Apa Kabar,28,2
+S1_ApaKabar2,S1,Apa Kabar,29,1
+S1_ApaKabar3,S1,Apa Kabar,27,3
+S1_ApaKabar4,S1,Apa Kabar,28,2
+S1_ApaKabar5,S1,Apa Kabar,28,2
+S2_ApaKabar1,S2,Apa Kabar,26,4
+S2_ApaKabar2,S2,Apa Kabar,23,7
+S2_ApaKabar3,S2,Apa Kabar,26,4
+S2_ApaKabar4,S2,Apa Kabar,28,2
+S2_ApaKabar5,S2,Apa Kabar,26,4
+S3_ApaKabar1,S3,Apa Kabar,25,5
+S3_ApaKabar2,S3,Apa Kabar,22,8
+S3_ApaKabar3,S3,Apa Kabar,26,4
+S3_ApaKabar4,S3,Apa Kabar,24,6
+S3_ApaKabar5,S3,Apa Kabar,26,4
+S4_ApaKabar1,S4,Apa Kabar,27,3
+S4_ApaKabar2,S4,Apa Kabar,26,4
+S4_ApaKabar3,S4,Apa Kabar,25,5
+S4_ApaKabar4,S4,Apa Kabar,28,2
+S4_ApaKabar5,S4,Apa Kabar,25,5
+S5_ApaKabar1,S5,Apa Kabar,30,0
+S5_ApaKabar2,S5,Apa Kabar,30,0
+S5_ApaKabar3,S5,Apa Kabar,30,0
+S5_ApaKabar4,S5,Apa Kabar,30,0
+S5_ApaKabar5,S5,Apa Kabar,30,0
+S6_ApaKabar1,S6,Apa Kabar,25,5
+S6_ApaKabar2,S6,Apa Kabar,26,4
+S6_ApaKabar3,S6,Apa Kabar,28,2
+S6_ApaKabar4,S6,Apa Kabar,27,3
+S6_ApaKabar5,S6,Apa Kabar,26,4
+S7_ApaKabar1,S7,Apa Kabar,27,3
+S7_ApaKabar2,S7,Apa Kabar,27,3
+S7_ApaKabar3,S7,Apa Kabar,26,4
+S7_ApaKabar4,S7,Apa Kabar,25,5
+S7_ApaKabar5,S7,Apa Kabar,27,3
+S1_Halo1,S1,Halo,26,4
+S1_Halo2,S1,Halo,23,7
+S1_Halo3,S1,Halo,23,7
+S1_Halo4,S1,Halo,25,5
+S1_Halo5,S1,Halo,28,2
+S2_Halo1,S2,Halo,26,4
+S2_Halo2,S2,Halo,27,3
+S2_Halo3,S2,Halo,24,6
+S2_Halo4,S2,Halo,16,14
+S2_Halo5,S2,Halo,21,9
+S3_Halo1,S3,Halo,22,8
+S3_Halo2,S3,Halo,20,10
+S3_Halo3,S3,Halo,24,6
+S3_Halo4,S3,Halo,24,6
+S3_Halo5,S3,Halo,23,7
+S4_Halo1,S4,Halo,28,2
+S4_Halo2,S4,Halo,27,3
+S4_Halo3,S4,Halo,27,3
+S4_Halo4,S4,Halo,26,4
+S4_Halo5,S4,Halo,25,5
+S5_Halo1,S5,Halo,30,0
+S5_Halo2,S5,Halo,30,0
+S5_Halo3,S5,Halo,30,0
+S5_Halo4,S5,Halo,30,0
+S5_Halo5,S5,Halo,30,0
+S6_Halo1,S6,Halo,28,2
+S6_Halo2,S6,Halo,25,5
+S6_Halo3,S6,Halo,26,4
+S6_Halo4,S6,Halo,28,2
+S6_Halo5,S6,Halo,24,6
+S7_Halo1,S7,Halo,24,6
+S7_Halo2,S7,Halo,27,3
+S7_Halo3,S7,Halo,23,7
+S7_Halo4,S7,Halo,28,2
+S7_Halo5,S7,Halo,24,6
+S1_Maaf1,S1,Maaf,21,9
+S1_Maaf2,S1,Maaf,23,7
+S1_Maaf3,S1,Maaf,23,7
+S1_Maaf4,S1,Maaf,22,8
+S1_Maaf5,S1,Maaf,23,7
+S2_Maaf1,S2,Maaf,27,3
+S2_Maaf2,S2,Maaf,28,2
+S2_Maaf3,S2,Maaf,30,0
+S2_Maaf4,S2,Maaf,30,0
+S2_Maaf5,S2,Maaf,25,5
+S3_Maaf1,S3,Maaf,24,6
+S3_Maaf2,S3,Maaf,19,11
+S3_Maaf3,S3,Maaf,26,4
+S3_Maaf4,S3,Maaf,24,6
+S3_Maaf5,S3,Maaf,28,2
+S4_Maaf1,S4,Maaf,23,7
+S4_Maaf2,S4,Maaf,27,3
+S4_Maaf3,S4,Maaf,24,6
+S4_Maaf4,S4,Maaf,22,8
+S4_Maaf5,S4,Maaf,22,8
+S5_Maaf1,S5,Maaf,30,0
+S5_Maaf2,S5,Maaf,30,0
+S5_Maaf3,S5,Maaf,30,0
+S5_Maaf4,S5,Maaf,30,0
+S5_Maaf5,S5,Maaf,30,0
+S6_Maaf1,S6,Maaf,27,3
+S6_Maaf2,S6,Maaf,24,6
+S6_Maaf3,S6,Maaf,22,8
+S6_Maaf4,S6,Maaf,23,7
+S6_Maaf5,S6,Maaf,25,5
+S7_Maaf1,S7,Maaf,24,6
+S7_Maaf2,S7,Maaf,26,4
+S7_Maaf3,S7,Maaf,25,5
+S7_Maaf4,S7,Maaf,26,4
+S7_Maaf5,S7,Maaf,27,3
+S1_Sama-sama1,S1,Sama-sama,24,6
+S1_Sama-sama2,S1,Sama-sama,20,10
+S1_Sama-sama3,S1,Sama-sama,26,4
+S1_Sama-sama4,S1,Sama-sama,27,3
+S1_Sama-sama5,S1,Sama-sama,25,5
+S2_Sama-sama1,S2,Sama-sama,24,6
+S2_Sama-sama2,S2,Sama-sama,29,1
+S2_Sama-sama3,S2,Sama-sama,29,1
+S2_Sama-sama4,S2,Sama-sama,29,1
+S2_Sama-sama5,S2,Sama-sama,26,4
+S3_Sama-sama1,S3,Sama-sama,25,5
+S3_Sama-sama2,S3,Sama-sama,20,10
+S3_Sama-sama3,S3,Sama-sama,22,8
+S3_Sama-sama4,S3,Sama-sama,21,9
+S3_Sama-sama5,S3,Sama-sama,26,4
+S4_Sama-sama1,S4,Sama-sama,26,4
+S4_Sama-sama2,S4,Sama-sama,26,4
+S4_Sama-sama3,S4,Sama-sama,26,4
+S4_Sama-sama4,S4,Sama-sama,25,5
+S4_Sama-sama5,S4,Sama-sama,23,7
+S5_Sama-sama1,S5,Sama-sama,30,0
+S5_Sama-sama2,S5,Sama-sama,30,0
+S5_Sama-sama3,S5,Sama-sama,30,0
+S5_Sama-sama4,S5,Sama-sama,30,0
+S5_Sama-sama5,S5,Sama-sama,30,0
+S6_Sama-sama1,S6,Sama-sama,26,4
+S6_Sama-sama2,S6,Sama-sama,22,8
+S6_Sama-sama3,S6,Sama-sama,24,6
+S6_Sama-sama4,S6,Sama-sama,24,6
+S6_Sama-sama5,S6,Sama-sama,27,3
+S7_Sama-sama1,S7,Sama-sama,26,4
+S7_Sama-sama2,S7,Sama-sama,25,5
+S7_Sama-sama3,S7,Sama-sama,25,5
+S7_Sama-sama4,S7,Sama-sama,23,7
+S7_Sama-sama5,S7,Sama-sama,26,4
+S1_Terimakasih1,S1,Terima kasih,27,3
+S1_Terimakasih2,S1,Terima kasih,28,2
+S1_Terimakasih3,S1,Terima kasih,26,4
+S1_Terimakasih4,S1,Terima kasih,25,5
+S1_Terimakasih5,S1,Terima kasih,22,8
+S2_Terimakasih1,S2,Terima kasih,24,6
+S2_Terimakasih2,S2,Terima kasih,24,6
+S2_Terimakasih3,S2,Terima kasih,20,10
+S2_Terimakasih4,S2,Terima kasih,28,2
+S2_Terimakasih5,S2,Terima kasih,25,5
+S3_Terimakasih1,S3,Terima kasih,24,6
+S3_Terimakasih2,S3,Terima kasih,24,6
+S3_Terimakasih3,S3,Terima kasih,24,6
+S3_Terimakasih4,S3,Terima kasih,22,8
+S3_Terimakasih5,S3,Terima kasih,24,6
+S4_Terimakasih1,S4,Terima kasih,25,5
+S4_Terimakasih2,S4,Terima kasih,28,2
+S4_Terimakasih3,S4,Terima kasih,25,5
+S4_Terimakasih4,S4,Terima kasih,23,7
+S4_Terimakasih5,S4,Terima kasih,27,3
+S5_Terimakasih1,S5,Terima kasih,28,2
+S5_Terimakasih2,S5,Terima kasih,30,0
+S5_Terimakasih3,S5,Terima kasih,24,6
+S5_Terimakasih4,S5,Terima kasih,29,1
+S5_Terimakasih5,S5,Terima kasih,29,1
+S6_Terimakasih1,S6,Terima kasih,28,2
+S6_Terimakasih2,S6,Terima kasih,26,4
+S6_Terimakasih3,S6,Terima kasih,27,3
+S6_Terimakasih4,S6,Terima kasih,26,4
+S6_Terimakasih5,S6,Terima kasih,24,6
+S7_Terimakasih1,S7,Terima kasih,23,7
+S7_Terimakasih2,S7,Terima kasih,24,6
+S7_Terimakasih3,S7,Terima kasih,21,9
+S7_Terimakasih4,S7,Terima kasih,19,11
+S7_Terimakasih5,S7,Terima kasih,24,6
+S1_Tolong1,S1,Tolong,23,7
+S1_Tolong2,S1,Tolong,24,6
+S1_Tolong3,S1,Tolong,24,6
+S1_Tolong4,S1,Tolong,24,6
+S1_Tolong5,S1,Tolong,23,7
+S2_Tolong1,S2,Tolong,29,1
+S2_Tolong2,S2,Tolong,27,3
+S2_Tolong3,S2,Tolong,28,2
+S2_Tolong4,S2,Tolong,29,1
+S2_Tolong5,S2,Tolong,27,3
+S3_Tolong1,S3,Tolong,23,7
+S3_Tolong2,S3,Tolong,22,8
+S3_Tolong3,S3,Tolong,26,4
+S3_Tolong4,S3,Tolong,25,5
+S3_Tolong5,S3,Tolong,23,7
+S4_Tolong1,S4,Tolong,23,7
+S4_Tolong2,S4,Tolong,21,9
+S4_Tolong3,S4,Tolong,22,8
+S4_Tolong4,S4,Tolong,23,7
+S4_Tolong5,S4,Tolong,22,8
+S5_Tolong1,S5,Tolong,30,0
+S5_Tolong2,S5,Tolong,29,1
+S5_Tolong3,S5,Tolong,30,0
+S5_Tolong4,S5,Tolong,30,0
+S5_Tolong5,S5,Tolong,30,0
+S6_Tolong1,S6,Tolong,26,4
+S6_Tolong2,S6,Tolong,23,7
+S6_Tolong3,S6,Tolong,24,6
+S6_Tolong4,S6,Tolong,26,4
+S6_Tolong5,S6,Tolong,25,5
+S7_Tolong1,S7,Tolong,24,6
+S7_Tolong2,S7,Tolong,27,3
+S7_Tolong3,S7,Tolong,23,7
+S7_Tolong4,S7,Tolong,26,4
+S7_Tolong5,S7,Tolong,25,5

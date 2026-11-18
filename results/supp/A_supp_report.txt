@@ -1,0 +1,22 @@
+DL video names unmapped: 0
+classical blocks: 210; each block predicted once per model: True
+McNemar rows saved; max p across tie sensitivities per row:
+    dl classical  p_exact  p_ties_right  p_ties_wrong
+1D-CNN       KNN    0.125         0.125         0.125
+1D-CNN       MLP    0.250         0.250         0.250
+1D-CNN        RF    0.250         0.250         0.250
+1D-CNN       SVM    0.125         0.250         0.125
+  LSTM       KNN    0.625         0.625         0.625
+  LSTM       MLP    1.000         1.000         1.000
+  LSTM        RF    1.000         1.000         1.000
+  LSTM       SVM    0.625         1.000         0.625
+DL folds identical to classical grouped folds (as video sets): False  -> training partitions differ; pairing is by video, OOF in both
+LENGTH-ONLY (chance = 6 balanced classes -> 16.67%):
+                                                       eval_unit                      model  mean  sd_ddof0                         folds
+video level | DL stratified folds | feature = n_real_frames only majority class (reference) 16.67      0.00 16.67;16.67;16.67;16.67;16.67
+video level | DL stratified folds | feature = n_real_frames only  DecisionTree(max_depth=3) 18.57      3.50 21.43;14.29;21.43;21.43;14.29
+video level | DL stratified folds | feature = n_real_frames only          RandomForest(100) 17.14      4.86 16.67;14.29;26.19;16.67;11.90
+video level | DL stratified folds | feature = n_real_frames only                     KNN(5) 19.52      4.10 26.19;14.29;21.43;16.67;19.05
+video level | DL stratified folds | feature = n_real_frames only        Logistic regression 21.90      4.62 14.29;21.43;23.81;28.57;21.43
+n_real_frames by class: {'Apa Kabar': {'mean': 26.77, 'std': 1.97, 'min': 22, 'max': 30}, 'Halo': {'mean': 25.49, 'std': 3.14, 'min': 16, 'max': 30}, 'Maaf': {'mean': 25.43, 'std': 3.06, 'min': 19, 'max': 30}, 'Sama-sama': {'mean': 25.63, 'std': 2.83, 'min': 20, 'max': 30}, 'Terima kasih': {'mean': 25.06, 'std': 2.6, 'min': 19, 'max': 30}, 'Tolong': {'mean': 25.31, 'std': 2.71, 'min': 21, 'max': 30}}
+n_real_frames by signer: {'S1': {'mean': 24.83, 'std': 2.39, 'min': 20, 'max': 29}, 'S2': {'mean': 26.03, 'std': 3.13, 'min': 16, 'max': 30}, 'S3': {'mean': 23.6, 'std': 2.06, 'min': 19, 'max': 28}, 'S4': {'mean': 24.9, 'std': 2.07, 'min': 21, 'max': 28}, 'S5': {'mean': 29.63, 'std': 1.16, 'min': 24, 'max': 30}, 'S6': {'mean': 25.4, 'std': 1.73, 'min': 22, 'max': 28}, 'S7': {'mean': 24.9, 'std': 1.97, 'min': 19, 'max': 28}}

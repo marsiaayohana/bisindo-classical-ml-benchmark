@@ -1,0 +1,8 @@
+numpy==1.26.4
+pandas==2.3.3
+scikit-learn==1.7.2
+scipy==1.16.3
+tensorflow==2.19.1   # only for the 1D-CNN / LSTM cells
+matplotlib>=3.7
+jupyter
+nbformat

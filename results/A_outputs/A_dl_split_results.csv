@@ -1,0 +1,5 @@
+eval_unit,split,model,n_train_videos,n_test_videos,epochs,accuracy,macro_f1,n_distinct_predicted_classes
+video sequences | stratified hold-out (DL),80:20,1D-CNN,168,42,43,100.0,100.0,6
+video sequences | stratified hold-out (DL),80:20,LSTM,168,42,30,100.0,100.0,6
+video sequences | stratified hold-out (DL),70:30,1D-CNN,147,63,32,96.82539682539682,96.81086774908286,6
+video sequences | stratified hold-out (DL),70:30,LSTM,147,63,56,92.06349206349206,91.53726708074534,6

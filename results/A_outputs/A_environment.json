@@ -1,0 +1,14 @@
+{
+  "python": "3.11.9",
+  "platform": "Windows-10-10.0.26300-SP0",
+  "processor": "Intel64 Family 6 Model 154 Stepping 3, GenuineIntel",
+  "numpy": "1.26.4",
+  "pandas": "2.3.3",
+  "sklearn": "1.7.2",
+  "scipy": "1.16.3",
+  "data_csv": "dataset_paper_5379_with_video.csv",
+  "data_sha256": "543f388b43201a8d2df382ef040cece0e50ac694c62ea14020c16bfb4fc2c6ae",
+  "random_state": 42,
+  "n_folds": 5,
+  "tensorflow": "2.19.1"
+}
