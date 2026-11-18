@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+a_common.py
+data/*.csv
+data/*.mp4
+*.mp4
+*.bak*
+.DS_Store
